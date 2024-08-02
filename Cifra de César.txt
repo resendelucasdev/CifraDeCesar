@@ -1,0 +1,5 @@
+Cifra de César
+
+Lucas = QAHFY
+
+A = F | B = G | C = H | D = I | E = J | F = K | G = L | H = M | I = N | J = O | K = P | L = Q | M = R | N = S | O = T | P = U | Q = V | R = X | S = Y | T = Z | U = A | V = B | X = C | Y = D | Z = E   
